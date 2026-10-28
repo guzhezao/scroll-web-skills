@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品动画提示词"
+  short_description: "为滚动产品网页编写连续产品动画提示词、镜头分段和素材交接规范"
+  default_prompt: "使用 $product-motion-prompts，为我的产品参考图编写适合滚动网页的连续动画提示词。"
